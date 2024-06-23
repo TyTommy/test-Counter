@@ -17,6 +17,10 @@ body {
   border-radius: 5px;
 }
 
+.App-container > h2 {
+  color: black;
+}
+
 .Btn-wrapper {
   display: flex;
   align-items: center;
